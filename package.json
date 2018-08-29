@@ -1,0 +1,11 @@
+{
+  "name": "sirius2018-console",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kozlovzxc/sirius2018-console.git",
+  "author": "Nikita Kozlov <kozlovzxc@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
+}
